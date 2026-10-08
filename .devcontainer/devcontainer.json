@@ -1,0 +1,9 @@
+{
+  "name": "JavaScript Practice",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:1-24-bookworm",
+  "customizations": {
+    "vscode": {
+      "extensions": ["dbaeumer.vscode-eslint"]
+    }
+  }
+}
